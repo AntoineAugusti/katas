@@ -1,4 +1,4 @@
-# http://www.prologin.org/training/challenge/demi2014/isaac
+# http://www.prologin.org/training/challenge/demi2014/labyrinthe
 from sys import stdin
 
 nbLines = int(stdin.readline())
