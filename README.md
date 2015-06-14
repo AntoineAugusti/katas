@@ -11,20 +11,20 @@ Solved problems:
 
 | Easy | Medium | Hard | Expert
 | :---: | :---: | :---: | :---: |
-[ASCII-art](codingame/easy/ascii-art.py) | [APU](codingame/medium/apu.py)||
-[Chuck norris](codingame/easy/chuck_norris.py) | [Bender](codingame/medium/bender.py)||
-[Defibrillators](codingame/easy/defibrillators.py) | [Conway Sequence](codingame/medium/conway_sequence.py)||
-[File extension](codingame/easy/file_extension.py) | [Dwarfs standing](codingame/medium/dwarfs_standing.py)||
-[Horse racing duals](codingame/easy/horse-racing_duals.py) | [Heat detector](codingame/medium/heat_detector.py)||
-[Mars lander](codingame/easy/mars_lander.py) | [Indiana](codingame/medium/indiana.py)||
-[Onboarding](codingame/easy/onboarding.py) | [Mayan calculation](codingame/medium/mayan_calculation.py)||
-[Power of Thor](codingame/easy/power_of_thor.py) | [Network cabling](codingame/medium/network_cabling.py)||
-[Temperatures](codingame/easy/temperatures.py) | [Paranoid Android](codingame/medium/paranoid_android.py)||
-[The chasm](codingame/easy/the_chasm.py) | [Scrabble](codingame/medium/scrabble.py)||
-[The descent](codingame/easy/the_descent.py) | [Skynet](codingame/medium/skynet.py)||
- | [Stock exchange losses](codingame/medium/stock_exchange_losses.py)||
- | [Telephone numbers](codingame/medium/telephone_numbers.py)||
- | [The gift](codingame/medium/the_gift.py)||
+[ASCII-art](codingame/easy/ascii-art.py) | [APU](codingame/medium/apu.py)| [Roller coaster](codingame/hard/roller_coaster.py) |
+[Chuck norris](codingame/easy/chuck_norris.py) | [Bender](codingame/medium/bender.py) | [Super computer](codingame/hard/super_computer.py)|
+[Defibrillators](codingame/easy/defibrillators.py) | [Conway Sequence](codingame/medium/conway_sequence.py) ||
+[File extension](codingame/easy/file_extension.py) | [Dwarfs standing](codingame/medium/dwarfs_standing.py) ||
+[Horse racing duals](codingame/easy/horse-racing_duals.py) | [Heat detector](codingame/medium/heat_detector.py) ||
+[Mars lander](codingame/easy/mars_lander.py) | [Indiana](codingame/medium/indiana.py) ||
+[Onboarding](codingame/easy/onboarding.py) | [Mayan calculation](codingame/medium/mayan_calculation.py) ||
+[Power of Thor](codingame/easy/power_of_thor.py) | [Network cabling](codingame/medium/network_cabling.py) ||
+[Temperatures](codingame/easy/temperatures.py) | [Paranoid Android](codingame/medium/paranoid_android.py) ||
+[The chasm](codingame/easy/the_chasm.py) | [Scrabble](codingame/medium/scrabble.py) ||
+[The descent](codingame/easy/the_descent.py) | [Skynet](codingame/medium/skynet.py) ||
+ | [Stock exchange losses](codingame/medium/stock_exchange_losses.py) ||
+ | [Telephone numbers](codingame/medium/telephone_numbers.py) ||
+ | [The gift](codingame/medium/the_gift.py) ||
 
 ## Prologin 2014
 - [42](prologin/2014/1_42.py)
