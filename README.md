@@ -47,3 +47,13 @@ Solved problems:
 - [Course d'éléphants](prologin/2015/2_course-elephants.py)
 - [Températures](prologin/2015/3_temperatures.py)
 - [Censure](prologin/2015/4_censure.py)
+
+## Rosalind
+Rosalind is a platform for learning bioinformatics and programming through problem solving.
+- [Counting DNA Nucleotides](rosalind/dna.py)
+- [Transcribing DNA into RNA](rosalind/rna.py)
+- [Complementing a Strand of DNA](rosalind/recv.py)
+- [Rabbits and Recurrence Relations](rosalind/fib.py)
+- [Mendel's First Law](rosalind/iprb.py)
+- [Counting Point Mutations](rosalind/hamm.py)
+- [Translating RNA into Protein](rosalind/prot.py)
