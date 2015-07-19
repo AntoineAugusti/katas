@@ -41,3 +41,9 @@ Solved problems:
 - [Deadline](prologin/2014/12_deadline.py)
 - [Couplage](prologin/2014/13_couplage.py)
 - [Balloons](prologin/2014/15_balloons.py)
+
+## Prologin 2015
+- [Question Universelle](prologin/2015/1_question-universelle.py)
+- [Course d'éléphants](prologin/2015/2_course-elephants.py)
+- [Températures](prologin/2015/3_temperatures.py)
+- [Censure](prologin/2015/4_censure.py)
