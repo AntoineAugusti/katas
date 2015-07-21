@@ -63,3 +63,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Mortal Fibonacci Rabbits](rosalind/fibd.py)
 - [Calculating Expected Offspring](rosalind/iev.py)
 - [Finding a Shared Motif](rosalind/lcsm.py)
+- [Enumerating Gene Orders](rosalind/perm.py)
