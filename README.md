@@ -60,3 +60,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Finding a Motif in DNA](rosalind/subs.py)
 - [Computing GC Content](rosalind/gc.py)
 - [Consensus and Profile](rosalind/cons.py)
+- [Mortal Fibonacci Rabbits](rosalind/fibd.py)
