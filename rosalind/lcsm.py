@@ -32,11 +32,10 @@ def longest_common_substr(arr):
 
 f = open("rosalind_lcsm.txt", "r")
 
-lines = []
 dnas = {}
 currentKey = ''
 for content in f:
-    # We have a new sample, remember the one we are capturing
+    # Beginning of a new sample
     if '>' in content:
         key = content.rstrip().replace('>', '')
         currentKey = key

@@ -1,13 +1,5 @@
 # http://rosalind.info/problems/cons/
 
-
-def updateDnas(lines, dnas):
-    key = lines[0].replace('>', '')
-    dnas[key] = ''.join(lines[1:])
-    lines = []
-
-    return dnas
-
 f = open("rosalind_cons.txt", "r")
 
 occurences = {}
@@ -15,17 +7,16 @@ nucleotides = ['A', 'C', 'G', 'T']
 for nucleotide in nucleotides:
     occurences[nucleotide] = []
 
-lines = []
 dnas = {}
+currentKey = ''
 for content in f:
-    # We have a new sample, remember the one we are capturing
-    if len(lines) > 1 and '>' in content:
-        dnas = updateDnas(lines, dnas)
-        lines = []
-    lines.append(content.rstrip())
-
-# We "manually" need to add the last DNA sample
-dnas = updateDnas(lines, dnas)
+    # Beginning of a new sample
+    if '>' in content:
+        key = content.rstrip().replace('>', '')
+        currentKey = key
+        dnas[currentKey] = ''
+    else:
+        dnas[currentKey] += content.rstrip()
 
 # Build the occurence matrix
 for key in dnas:
