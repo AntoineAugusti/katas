@@ -68,3 +68,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Calculating Protein Mass](rosalind/prtm.py)
 - [Finding a Protein Motif](rosalind/mprt.py)
 - [Enumerating Oriented Gene Orderings](rosalind/sign.py)
+- [RNA Splicing](rosalind/splc.py)
