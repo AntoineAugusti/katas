@@ -71,3 +71,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [RNA Splicing](rosalind/splc.py)
 - [Enumerating k-mers Lexicographically](rosalind/lexf.py)
 - [Overlap Graphs](rosalind/grph.py)
+- [Open Reading Frames](rosalind/orf.py)
