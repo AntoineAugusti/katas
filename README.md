@@ -77,3 +77,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Longest Increasing Subsequence](rosalind/lgis.py)
 - [Completing a Tree](rosalind/tree.py)
 - [Perfect Matchings and RNA Secondary Structures](rosalind/pmch.py)
+- [Genome Assembly as Shortest Superstring](rosalind/long.py)
