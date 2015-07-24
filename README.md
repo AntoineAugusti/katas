@@ -76,3 +76,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Finding a Spliced Motif](rosalind/sseq.py)
 - [Longest Increasing Subsequence](rosalind/lgis.py)
 - [Completing a Tree](rosalind/tree.py)
+- [Perfect Matchings and RNA Secondary Structures](rosalind/pmch.py)
