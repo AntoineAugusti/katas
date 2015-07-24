@@ -80,3 +80,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Genome Assembly as Shortest Superstring](rosalind/long.py)
 - [Introduction to Random Strings](rosalind/prob.py)
 - [Transitions and Transversions](rosalind/tran.py)
+- [Partial Permutations](rosalind/pper.py)
