@@ -78,3 +78,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Completing a Tree](rosalind/tree.py)
 - [Perfect Matchings and RNA Secondary Structures](rosalind/pmch.py)
 - [Genome Assembly as Shortest Superstring](rosalind/long.py)
+- [Introduction to Random Strings](rosalind/prob.py)
