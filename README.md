@@ -82,3 +82,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Transitions and Transversions](rosalind/tran.py)
 - [Partial Permutations](rosalind/pper.py)
 - [Ordering Strings of Varying Length Lexicographically](rosalind/levx.py)
+- [Counting Subsets](rosalind/sset.py)
