@@ -85,3 +85,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Counting Subsets](rosalind/sset.py)
 - [k-Mer Composition](rosalind/kmer.py)
 - [Counting Phylogenetic Ancestors](rosalind/inod.py)
+- [Introduction to Set Operations](rosalind/seto.py)
