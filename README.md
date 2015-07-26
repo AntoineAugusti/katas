@@ -91,3 +91,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Finding a Shared Spliced Motif](rosalind/lcsq.py)
 - [Inferring Protein from Spectrum](rosalind/spec.py)
 - [Error Correction in Reads](rosalind/corr.py)
+- [Introduction to Alternative Splicing](rosalind/aspc.py)
