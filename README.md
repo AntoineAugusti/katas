@@ -87,3 +87,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Counting Phylogenetic Ancestors](rosalind/inod.py)
 - [Introduction to Set Operations](rosalind/seto.py)
 - [Creating a Distance Matrix](rosalind/pdst.py)
+- [Speeding Up Motif Finding](rosalind/kmp.py)
