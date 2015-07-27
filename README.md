@@ -93,3 +93,4 @@ Rosalind is a platform for learning bioinformatics and programming through probl
 - [Error Correction in Reads](rosalind/corr.py)
 - [Introduction to Alternative Splicing](rosalind/aspc.py)
 - [Edit Distance](rosalind/edit.py)
+- [Maximum Matchings and RNA Secondary Structures](rosalind/mmch.py)
