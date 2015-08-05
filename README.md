@@ -1,7 +1,7 @@
 # Code Katas
 > A code kata is an exercise in programming which helps a programmer hone their skills through practice and repetition.
 
-This is what I do in my free time to keep my brain busy!
+This is what I do in my free time to keep my brain busy! I've talked about this on my blog: [Keeping my brain busy in my free time](http://blog.antoine-augusti.fr/2015/07/keeping-my-brain-busy-in-my-free-time/).
 
 ## Codingame
 
