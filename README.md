@@ -13,7 +13,7 @@ Solved problems:
 | :---: | :---: | :---: | :---: |
 [ASCII-art](codingame/easy/ascii-art.py) | [APU](codingame/medium/apu.py)| [Roller coaster](codingame/hard/roller_coaster.py) |
 [Chuck norris](codingame/easy/chuck_norris.py) | [Bender](codingame/medium/bender.py) | [Super computer](codingame/hard/super_computer.py)|
-[Defibrillators](codingame/easy/defibrillators.py) | [Conway Sequence](codingame/medium/conway_sequence.py) ||
+[Defibrillators](codingame/easy/defibrillators.py) | [Conway Sequence](codingame/medium/conway_sequence.py) |[Tan Network](codingame/hard/tan_network.go)|
 [File extension](codingame/easy/file_extension.py) | [Dwarfs standing](codingame/medium/dwarfs_standing.py) ||
 [Horse racing duals](codingame/easy/horse-racing_duals.py) | [Heat detector](codingame/medium/heat_detector.py) ||
 [Mars lander](codingame/easy/mars_lander.py) | [Indiana](codingame/medium/indiana.py) ||
