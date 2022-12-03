@@ -5,6 +5,7 @@ input =
   |> Enum.reject(&(&1 == ""))
 
 possibilities = for x <- ~w(A B C), y <- ~w(X Y Z), do: "#{x} #{y}"
+
 unless MapSet.equal?(MapSet.new(possibilities), MapSet.new(input)) do
   raise "unexpected input"
 end
